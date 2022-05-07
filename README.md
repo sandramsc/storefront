@@ -27,7 +27,7 @@ storefront landing page
 
 | Technology | Description |
 | ---------- | ----------- |
-| React.js | javaScript library|
+| React.js | JavaScript library|
 | styled-components |  enables CSS to be written in JavaScript|
 
 ## How to use the app

@@ -19,11 +19,9 @@ storefront landing page
 
 </details>
 
-## Project Demo
-
-<!--Explore the [App](..)-->
-
 ## Screenshots
+![Capture](https://user-images.githubusercontent.com/19821445/167232065-db9b48a8-4896-48b2-bf19-c20072d41195.JPG)
+![Capture2](https://user-images.githubusercontent.com/19821445/167232075-237b4408-86c6-4c62-a348-95cb06522d26.JPG)
 
 ## Technology Stack
 
@@ -41,10 +39,6 @@ $ git clone https://github.com/sandramsc/storefront.git
 ```
 
 **Step #2**
-
-```
-cd client
-```
 
 - Install dependencies: `npm i` OR `yarn`
 
